@@ -1,0 +1,54 @@
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.6477640299126506
+  lightness: 0.9927773587405682
+  saturation: 0.7732310520950705
+  rhythmicContrast: 0.49962321878410876
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: LiquidblüRejuvenationCenter
+layout_spectrum: 0.7571384126786143
+typography_spectrum: 0.16309251682832837
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/343761e8-4c54-4ccd-8e88-0f68dded55da.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/343761e8-4c54-4ccd-8e88-0f68dded55da.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Liquid blü Rejuvenation Center
+description: Massage Therapy
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a74199b7-225e-4761-a801-4f914997dff4.png
+author:
+  name: Mary Chavez
+  email: liquidblurejuvenation@gmail.com
