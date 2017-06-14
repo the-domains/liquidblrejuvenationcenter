@@ -52,3 +52,7 @@ logo: >-
 author:
   name: Mary Chavez
   email: liquidblurejuvenation@gmail.com
+purpose:
+  - type: contact
+    url: 'tel:6318133786'
+    label: Call 6318133786
